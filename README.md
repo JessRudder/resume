@@ -1,9 +1,12 @@
 Jessica Rudder
 ============
 
-----------------------------
-| thejessicarudder@gmail.com              | @JessRudder               |                     310-488-3720 |
-----------------------------
+Contact Info
+----------
+* thejessicarudder@gmail.com
+* [github.com/jessrudder](https://github.com/jessrudder)
+* [@JessRudder](https://twitter.com/jessrudder)
+* 1-310-488-3720
 
 Professional Profile
 ----------
