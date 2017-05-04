@@ -1,94 +1,87 @@
-Johnny Coder
+Jessica Rudder
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+----------------------------
+| thejessicarudder@gmail.com              | @JessRudder               |                     310-488-3720 |
+----------------------------
 
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+Professional Profile
+----------
+**Insatiably curious coder** with 3 years experience building web applications (primarily in Ruby
+on Rails and React/Alt). Passionate about fixing bugs and optimizing code. Shares her love of
+code through conference talks and YouTube videos.
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Developer, Flatiron School (2014-Present)**
+* Led development efforts from product spec through completion for blogging, public
+lesson pages and new course features on Learn.co
+* Collaborated with product managers, QA engineers, labs team developers, and other
+stakeholders to derive an appropriate implementation strategy and ship features on time
+* Built new onboarding flow which significantly reduced sign up friction for new students
+using Ruby on Rails and React
+* Implemented blogging feature to increase technical writing from students using Ruby
+on Rails, Backbone, Marionette and the Github API
+* Designed database schema and wrote recurring tasks to process student progress data
+and determine approaching eligibility for graduation in order to properly notify
+students and support staff
+* Utilized Object-Oriented CSS to update Learn.co app with consistent look (reducing
+amount of CSS by 70%)
+* Boosted discoverability of Learn by creating keyword-rich, public-facing lesson pages
+* Participated in code reviews and gave presentations and demos to team to share
+knowledge of the codebase
+* Gave lectures on jQuery and Learning from Failure to in-person immersive Flatiron
+students while serving a three-month rotation on the education team
+* Wrote blog posts for the Flatiron School blog, Uncubed and Quora to foster a learning
+community for prospective and current students
+* Worked with business stakeholders to create SQL-based charts in Periscope to allow
+regular reporting on key performance indicators
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Account Manager - Search & Social, OMD Entertainment (2012-2014)**
+* Planned and managed implementation of North American-targeted search and social
+marketing campaigns for Disney’s DVD releases
+* Spearheaded keyword strategy that boosted conversions by 15% and lead to adoption
+across all titles being sold with a digital format
+* Implemented video campaigns on YouTube using inSearch, inStream and remarketing
 
-* First item
+**Search Marketing Manager, MatchCraft (2005-2012)**
+* Coordinated with cross-functional team of engineers and client representatives to
+transition live programs without disruption of ad delivery
+* Partnered with clients across nine countries (involving five languages) to identify needs
+and develop or refine online marketing programs to meet those needs
+* Implemented taxonomy changes which improved on-time fulfillment by 20%
+* Grew largest program by 43% without increasing size of team working on account
+* Streamlined team processes reducing account operating costs by 15%
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Public Speaking & Writing
+----------
+**Conference Talks**
+* The Good Bad Bug: Learning from Failure - Rails Conference 2017 - Coming Soon!
+* Will it Inject: SQL Injection and Active Record - [Rails Conference 2016](https://www.youtube.com/watch?v=2GHWAYys1is)
+* Diversity in Tech: Beyond the HIring Process - [Ruby Conference Australia 2016](https://rubyconf.eventer.com/rubyconf-australia-2016-1489/diversity-in-tech-it-s-aboutmore-than-just-the-hiring-process-by-jess-rudder-1944)
 
-**That Other Job You Had**
+**Video Presentations**
+* Videos on Code Topics - [CompChomp](https://youtube.com/compchomp)
 
-Also with a short description.
+**Books**
+* Ruby in _The Librarian's Introduction to Programming Languages: A LITA Guide_ (pp. 27-40).
+Lanham, MA: Rowman & Littlefield
 
-Technical Experience
---------------------
+Education
+---------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Continuing/self-directed learning**
+* Emphases: critical thinking and technology
+* Courses of study: formal logic, philosophy, artificial intelligence, drawing
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**Flatiron School**
+Full stack web development utilizing Ruby on Rails and JavaScript
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**New York University**
+B.A. Drama with training in stage productions, public speaking and literature
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Interests
+---------
+general aviation (licensed), ultra running, cooking, robotics, cycling
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-view raw
